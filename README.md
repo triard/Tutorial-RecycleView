@@ -259,7 +259,13 @@ public class MainActivity extends AppCompatActivity {
 
 }
 ```
+<b>Menambah user-permission di Manifests agar aplikasi dapat mengakses internet</b>
+```xml
+      <uses-permission android:name="android.permission.INTERNET"/>
+```
 <b>Hasil Output</b>
+Silahkan jalankan kode program yang telah anda ketik pada program anda. Dan hasil yang diharapkan adalah seperti berikut : 
+![](final.gif)
 
 ## Refrensi
 1. https://code.tutsplus.com/id/tutorials/code-an-image-gallery-android-app-with-picasso--cms-30966
