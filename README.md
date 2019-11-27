@@ -2,23 +2,23 @@
 
 ## introduction
 
-### About RecyclerView
+ <b>About RecyclerView</b>
 <p>RecyclerView adalah salah satu komponen ui di Android yang sering digunakan dalam sebuah aplikasi. Karena komponen ini digunakan untuk membuat sebuah app yang didalamnya terdapat list atau daftar yang dapat discroll ke atas ke bawah atau ke kanan ke kiri.<p>
 <hr>
-### Komponen-Komponen RecycleView
-- Data
-- RecylerView
-- Layout untuk satu item data
-- Pengelola layout
-- Adapter
-- View holder
+ <b>Komponen-Komponen RecycleView</b>
+<hr>- Data
+<hr>- RecylerView
+<hr>- Layout untuk satu item data
+<hr>- Pengelola layout
+<hr>- Adapter
+<hr>- View holder
 
-### About CardView
+<b>About CardView</b>
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
-### About Picasso
+<b> About Picasso</b>
 <p>Picasso (nama yang terinspirasi oleh seniman Perancis terkenal Pablo Picasso) adalah pustaka Android open-source yang sangat populer untuk memuat gambar di aplikasi Android Anda
-
+<hr>
 Picasso memungkinkan pemuatan gambar tanpa kerumitan dalam aplikasi Anda—sering kali dalam satu baris kode!
 Perhatikan bahwa Picasso menggunakan OkHttp (perpustakaan jaringan dari pengembang yang sama) di bawah tenda untuk memuat gambar melalui internet.</p>
 
