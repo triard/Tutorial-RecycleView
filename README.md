@@ -17,8 +17,8 @@ Diagram di bawah ini menampilkan hubungan antara komponen-komponen ini:
 ![](komponen.png)
 
 <hr>
-## introduction
-<b>About CardView</b>
+## About CardView
+
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
 <b> About Picasso</b>
