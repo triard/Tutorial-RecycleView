@@ -13,6 +13,7 @@
 <br>- Adapter
 <br>- View holder
 Diagram di bawah ini menampilkan hubungan antara komponen-komponen ini:
+<br>
 ![](komponen.png)
 
 <hr>
