@@ -6,19 +6,19 @@
 <p>RecyclerView adalah salah satu komponen ui di Android yang sering digunakan dalam sebuah aplikasi. Karena komponen ini digunakan untuk membuat sebuah app yang didalamnya terdapat list atau daftar yang dapat discroll ke atas ke bawah atau ke kanan ke kiri.<p>
 <hr>
  <b>Komponen-Komponen RecycleView</b>
+Diagram di bawah ini menampilkan hubungan antara komponen-komponen ini:
+<br>
+![](komponen.png)
+
+
 <br>- Data
 <br>- RecylerView
 <br>- Layout untuk satu item data
 <br>- Pengelola layout
 <br>- Adapter
 <br>- View holder
-Diagram di bawah ini menampilkan hubungan antara komponen-komponen ini:
-<br>
-![](komponen.png)
 
-<hr>
-## About CardView
-
+<b>About CardView</b>
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
 <b> About Picasso</b>
