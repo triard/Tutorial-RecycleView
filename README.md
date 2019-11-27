@@ -269,6 +269,7 @@ public class MainActivity extends AppCompatActivity {
 Silahkan jalankan kode program yang telah anda ketik pada program anda. Dan hasil yang diharapkan adalah seperti berikut : 
 <br>
 ![](final.gif)
+![](komponen.png)
 
 ## Refrensi
 1. https://code.tutsplus.com/id/tutorials/code-an-image-gallery-android-app-with-picasso--cms-30966
