@@ -17,23 +17,29 @@
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
 ### About Picasso
-<p>Picasso (nama yang terinspirasi oleh seniman Perancis terkenal Pablo Picasso) adalah pustaka Android open-source yang sangat populer untuk memuat gambar di aplikasi Android Anda. Menurut dokumen resmi, itu menyatakan:
+<p>Picasso (nama yang terinspirasi oleh seniman Perancis terkenal Pablo Picasso) adalah pustaka Android open-source yang sangat populer untuk memuat gambar di aplikasi Android Anda
 
-...Picasso memungkinkan pemuatan gambar tanpa kerumitan dalam aplikasi Anda—sering kali dalam satu baris kode!
+Picasso memungkinkan pemuatan gambar tanpa kerumitan dalam aplikasi Anda—sering kali dalam satu baris kode!
 Perhatikan bahwa Picasso menggunakan OkHttp (perpustakaan jaringan dari pengembang yang sama) di bawah tenda untuk memuat gambar melalui internet.</p>
 
 ## Mengimplementasikan RecyclerView
 
 <b>Menambahkan Dependensi RecylerView, cardview, dan Picasso</b>
+<br>Pertama kita tambahkan dependencies dalam gradle, lalu lakukan Sync Now.
+
 ```xml
     implementation 'com.android.support:recyclerview-v7:28.0.0'
     implementation 'com.android.support:cardview-v7:28.0.0'
     implementation 'com.squareup.picasso:picasso:2.71828'
 ```
-<b>Tambahkan RecyclerView ke activity_main</b>
-<b>Buat layout untuk satu item</b>
-<b>PBuat adapter dengan view holder</b>
-<b>Menambhakan recyclerview di MainAcitivy</b>
+
+<b>Tambahkan RecyclerView ke layout</b>
+<br>Kemudian kita tambahkan RecyclerView pada activity_main.xml kita :
+```xml
+```
+<br><b>Buat layout untuk satu item</b>
+<br><b>PBuat adapter dengan view holder</b>
+<br><b>Menambhakan recyclerview di MainAcitivy</b>
 
 <b>Hasil Output</b>
 
