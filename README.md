@@ -13,8 +13,8 @@
 <br>- Adapter
 <br>- View holder
 <br>
-![komponen.png]
-<br>
+![](komponen.png)
+<br>	
 <b>About CardView</b>
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
