@@ -12,9 +12,8 @@
 <br>- Pengelola layout
 <br>- Adapter
 <br>- View holder
-<br>
-![Screenshot](final.gif)
-<br>	
+![](komponen.png)
+
 <b>About CardView</b>
 <p>CardView merupakan view paketan dari Material Design — diperkenalkan pada Android Versi Lolipop. Bentuk view ini biasa digunakan untuk pembungkusan data (sepaket data — beberapa view) yang ditandai dengan tampilan view nya yang memiliki drop shadow (elevation) dan corner radius. Adapun CardView ini merupakan subclass dari FrameLayout.</p>
 
@@ -269,7 +268,7 @@ public class MainActivity extends AppCompatActivity {
 Silahkan jalankan kode program yang telah anda ketik pada program anda. Dan hasil yang diharapkan adalah seperti berikut : 
 <br>
 ![](final.gif)
-![](komponen.png)
+
 
 ## Refrensi
 1. https://code.tutsplus.com/id/tutorials/code-an-image-gallery-android-app-with-picasso--cms-30966
